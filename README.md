@@ -1,5 +1,5 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F747&center=true&width=435&lines=Dias+Salakhutdinov;Python+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=30&color=27F747&center=true&width=435&lines=Dias+Salakhutdinov)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F747&center=true&width=600&lines=Python+Developer)](https://git.io/typing-svg)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dddiias)
 
 <!--
